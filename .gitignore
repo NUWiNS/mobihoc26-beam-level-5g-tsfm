@@ -8,3 +8,11 @@ __pycache__/
 *.pyc
 *.log
 .DS_Store
+logs/
+results/sparsity_*.csv
+results/friedman_*.csv
+results/nemenyi_*.csv
+results/shift_*.csv
+results/main_table.tex
+results/cross_dataset_ranks.csv
+results/measurement_analysis/
